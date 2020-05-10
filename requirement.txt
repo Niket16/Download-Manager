@@ -1,4 +1,4 @@
-pip install humanize
-pip install pafy
-pip install PyQt5
-pip install --upgrade youtube-dl
+humanize
+pafy
+PyQt5
+youtube-dl
